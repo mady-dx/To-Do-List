@@ -1,0 +1,32 @@
+ul{
+    list-style-type: none;
+}
+
+.checkItOff{
+    display: inline-flex;
+}
+
+.words{
+    display: inline-flex;
+    min-width: 200px;
+    max-width: 200px;
+    overflow-wrap: normal;
+}
+
+.removeBtn{
+    display: inline-flex;
+    padding-left: 30px;
+    border: none;
+    background: none;
+}
+
+body{
+    text-align: center;
+    font-size: 12px;
+    border-radius: 4px;
+}
+
+#task{
+    min-width: 200px;
+    max-width: 200px;
+}
